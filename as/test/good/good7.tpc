@@ -1,0 +1,6 @@
+int main(void) {
+    int a;
+    int b;
+    array[0] = 1 + 2;
+    return 0;
+}

@@ -1,0 +1,16 @@
+int x, y, array[5];
+char c;
+
+int main(int first, int third, char second) {
+    int x, y, array[5];
+    char c;
+    array[0] = 1 + 2;
+    x = 5;
+    if (x > 0) {
+        printf(PositiveNumber);
+    } 
+    //else {
+    //    printf(NonPositiveNumber);
+    //}
+    return 0;
+}
