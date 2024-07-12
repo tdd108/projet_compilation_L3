@@ -1,0 +1,9 @@
+//missing arugments
+
+int func(int a) {
+    
+}
+
+int main(void) {
+    func();
+}

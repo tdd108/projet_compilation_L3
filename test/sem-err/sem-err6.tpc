@@ -1,0 +1,10 @@
+// assign to void function
+
+void func(void) {
+
+}
+
+int main(void) {
+    int a;
+    a = func();
+}

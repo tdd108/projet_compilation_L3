@@ -1,0 +1,7 @@
+void func(void) {
+    return 1;
+}
+
+int main(void) {
+    func();
+}

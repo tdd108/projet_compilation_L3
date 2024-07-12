@@ -1,0 +1,7 @@
+int tab[5];
+
+int main(void) {
+    tab[0] = 1;
+    putint(tab[0]);
+    return 0;
+}

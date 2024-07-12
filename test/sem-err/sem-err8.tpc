@@ -1,0 +1,8 @@
+void func(void) {
+
+}
+
+int main(void) {
+    int tab[5];
+    tab[func()] = 1;
+}

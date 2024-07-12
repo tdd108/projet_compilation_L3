@@ -1,0 +1,10 @@
+// passing wrong type of argument
+
+int func(int a, int b) {
+    return a + b;
+}
+
+int main(void) {
+    int tab[10];
+    func(1, tab);
+}

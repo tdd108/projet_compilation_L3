@@ -1,0 +1,6 @@
+int func(void) {}
+
+int main(void) {
+    char c;
+    c = func();
+}

@@ -1,0 +1,5 @@
+int func(char a) {}
+
+int main(void) {
+    func(97);
+}
